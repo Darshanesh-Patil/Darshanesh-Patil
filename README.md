@@ -9,7 +9,7 @@
 
 
 
-Hi, I'm Darshanesh Patil, a **`Data Analyst`** from India. Beside's programming, I enjoy watching TV series and playing Football.
+Hi, I'm Darshanesh Patil, a **`Data Analyst`** from India. Beside's programming, I enjoy watching Sci-fi TV series and playing Football.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
