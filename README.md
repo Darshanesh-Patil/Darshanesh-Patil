@@ -31,7 +31,7 @@ Hi, I'm Darshanesh Patil, a **`Data Analyst`** from India. Beside's programming,
   <h2 align="center"><b>Github Stats</b></h2>
 </br>
 <p align="center">
-<a href="https://github.com/officialpm">
+<a href="https://github.com/Darshanesh-Patil">
 <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshanesh-Patil&theme=dark" alt="Darshanesh-Patil"/>
 </a>
 </p>
