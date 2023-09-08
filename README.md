@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-DarshaneshPatil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshanesh-patil/)](https://www.linkedin.com/in/darshanesh-patil/)
+[![Linkedin Badge](https://img.shields.io/badge/-DarshaneshPatil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshanesh-patil/)](https://www.linkedin.com/in/darshanesh-patil/) ![](https://komarev.com/ghpvc/?username=Darshanesh-Patil&style=flat-square)
 
 </div>
 
