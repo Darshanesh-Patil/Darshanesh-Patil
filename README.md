@@ -1,4 +1,6 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Darshanesh!](https://github.com/Darshanesh-Patil) 
+<div>
+ <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Darshanesh+Patil!;Data+Analyst...🏻‍💻;" style="width: 100%;">
+ </div>
 
 
 <div align="center">
