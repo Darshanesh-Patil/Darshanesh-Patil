@@ -18,7 +18,6 @@ Hi, I'm Darshanesh Patil, a **`Data Analyst`** from India. Beside's programming,
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 Post Graduate student specialised in `Operations and Supply Chain Management` and `Big Data Analytics`; 
-- 👨🏽‍💻 I’m currently working on `Supply Chain Management System` and `Celebrity Face Detection from Video using Machine Learning`;
 - 🌱 I’m currently learning almost **`everything`**; 
 - 👯 I'm looking to collaborate on **`AI/ML` and `Data Analytics`** ;
 - 💬 Ask me about anything, I am happy to help;
